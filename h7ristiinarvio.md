@@ -1,5 +1,5 @@
 # Miniprojektien ristiinarviointi  
-Tähän ristiinarviontiin valitsin 3 oppilasprojektia sivun https://terokarvinen.com/palvelinten-hallinta/#laksyt kommenttikentästä johon oppilaat olivat lisänneet omia projektejaan  
+Tähän ristiinarviontiin valitsin 3 oppilasprojektia sivun https://terokarvinen.com/palvelinten-hallinta/#laksyt kommenttikentästä johon oppilaat olivat lisänneet omia projektejaan. Otin myös projekteja Tero Karvisen Laksu-palvelusta
 
 ## Ensimmäinen projekti - https://github.com/nurminenkasper/netris-salt-vagrant-module
 Ensimmäiseksi valitutui Kasper Nurmisen tekemä projekti, jolla saltilla asennetaan Netris niminen peli minion tietokoneeseen saltilla.  
